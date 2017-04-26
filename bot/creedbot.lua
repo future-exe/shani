@@ -411,7 +411,7 @@ https://telegram.me/IR_Team/61
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id = 84020457
 end
 
 function on_user_update (user, what)
